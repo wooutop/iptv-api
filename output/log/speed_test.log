@@ -1,11 +1,3 @@
-Name: CCTV-13, URL: http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-上海-上海, ISP: 电信, Date: None, Delay: 2144 ms, Speed: 0.99 M/s, Resolution: 1920x1080
-Name: CCTV-13, URL: http://106.53.99.30/tv/cctv13.php, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 腾讯云, Date: None, Delay: 2590 ms, Speed: 1.20 M/s, Resolution: 1920x1080
-Name: CCTV-13, URL: http://111.43.126.240:9003/hls/26/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-黑龙江, ISP: 移动, Date: None, Delay: 10032 ms, Speed: 0.20 M/s, Resolution: 720x576
-Name: CCTV-5, URL: http://120.76.248.139/live/bfgd/4200000064.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 阿里云BGP数据中心, Date: None, Delay: 10731 ms, Speed: 0.00 M/s, Resolution: None
-Name: 湖南卫视, URL: http://183.11.239.36:808/hls/36/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 电信, Date: None, Delay: 10950 ms, Speed: 0.01 M/s, Resolution: None
-Name: CCTV-1, URL: http://183.11.239.36:808/hls/19/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 电信, Date: None, Delay: 10399 ms, Speed: 0.01 M/s, Resolution: None
-Name: CCTV-1, URL: http://124.116.183.146:9901/tsfile/live/0001_1.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-陕西-咸阳, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-5, URL: http://171.15.18.199:8180/TV00000000000000000005@HHZT, From: subscribe, IPv_Type: ipv4, Location: 中国-河南-漯河, ISP: 电信, Date: None, Delay: 478 ms, Speed: 0.28 M/s, Resolution: None
-Name: CCTV-5, URL: http://153.0.171.163:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-海南-海口, ISP: 联通, Date: None, Delay: 10508 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-13, URL: http://153.0.171.163:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-海南-海口, ISP: 联通, Date: None, Delay: 10511 ms, Speed: 0.00 M/s, Resolution: None
-Name: 东方卫视, URL: http://223.105.252.8/PLTV/4/224/3221228150/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-江苏-苏州, ISP: 移动, Date: None, Delay: 2289 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-13, URL: http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-上海-上海, ISP: 电信, Date: None, Delay: 2467 ms, Speed: 0.91 M/s, Resolution: 1920x1080
+Name: CCTV-13, URL: http://106.53.99.30/tv/cctv13.php, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 腾讯云, Date: None, Delay: 2527 ms, Speed: 0.25 M/s, Resolution: 1920x1080
+Name: CCTV-5, URL: http://171.15.18.199:8180/TV00000000000000000005@HHZT, From: subscribe, IPv_Type: ipv4, Location: 中国-河南-漯河, ISP: 电信, Date: None, Delay: 970 ms, Speed: 0.31 M/s, Resolution: None
