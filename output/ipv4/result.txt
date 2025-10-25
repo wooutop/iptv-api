@@ -1,10 +1,15 @@
 🕘️更新时间,#genre#
-2025-10-24 06:09:59,http://171.15.18.199:8180/TV00000000000000000005@HHZT
+2025-10-25 18:21:47,http://218.19.108.170:808/hls/1/index.m3u8
 
 央视频道,#genre#
+CCTV-1,http://218.19.108.170:808/hls/1/index.m3u8
+CCTV-5,http://1.31.14.70:54321/hls/7/index.m3u8
 CCTV-5,http://171.15.18.199:8180/TV00000000000000000005@HHZT
 CCTV-13,http://ivi.bupt.edu.cn/hls/cctv13.m3u8
-CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-13,http://106.53.99.30/tv/cctv13.php
+CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+CCTV-13,http://1.31.14.70:54321/hls/19/index.m3u8
+CCTV-13,http://lt.hxtre.com:35455/gaoma/cctv13.m3u8
 
 卫视频道,#genre#
+湖南卫视,http://1b6467f415.iok.la:9931/tsfile/live/1058_1.m3u8
